@@ -1,4 +1,5 @@
-# Data-Science-Projects
+# Ken Watson
+About me
 
 I am a former professional photographer and currently working towards a Certificate in Data Science at UC Irvine. I received my BFA in photography from Otis College of Art and Design in 1999 before embarking on a career as a photographer and working in the film industry. With an interest in business, I also received my California real estate and insurance licenses (currently expired) and works in the commercial real estate industry as an office administrator and previously a property coordinator. I also taught myself web site development and search engine optimization to create affiliate marketing web sites.
 
