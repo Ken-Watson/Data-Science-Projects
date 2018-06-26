@@ -5,4 +5,4 @@ I am a former professional photographer and currently working towards a Certific
 
 After searching for other ways to incorporate my creative side with technology, I happened to stumble upon the field of data science and immediately took an interest in learning it. In January 2017, I began learning data science through the online platform Dataquest.io. Then later that year, I enrolled in UC Irvine's Certificate in Data Science program. Throughout the 2017 year, I've learned data analysis in Python, statistical analysis using Tibco Statistica software, data mining applications, data visualization using Tableau, and Java programming.
 
-When I'm not sitting in front of a Jupyter Notebook jotting down code, you can find me walking my Boxer at the beach, ocean paddling, or enjoying a delicious craft brew from one of the many local breweries. 
+When I'm not sitting in front of a Jupyter Notebook or Eclipse jotting down code, you can find me walking my Boxer at the beach, ocean paddling, or enjoying a delicious craft brew from one of the many local breweries. 
