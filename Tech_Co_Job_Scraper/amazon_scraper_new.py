@@ -68,8 +68,9 @@ def get_all_jobs(pages):
                            'radius=24km&region=&result_limit=10&schedule_type_id%5B%5D=Full-Time&'
                            'sort=relevant'.format(page),
                            headers=headers,
+                           # You will need your own Crawlera account and place below.
                            proxies={
-                               "http": "http://1ea01a3a7b574c2f8de2c5cfc71ae9cd:@proxy.crawlera.com:8010/"
+                               "http": "http://xxxxxxxxxxxxxxxxxxxxxxx:@proxy.crawlera.com:8010/"
                            }
                            )
 
