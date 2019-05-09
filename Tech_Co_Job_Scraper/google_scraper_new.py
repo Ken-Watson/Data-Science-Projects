@@ -21,9 +21,6 @@ def get_all_jobs(pages):
     start_time = time()
     total_runtime = datetime.now()
     for page in pages:
-        # response = get("https://careers.google.com/api/jobs/jobs-v1/search/?company=Google&company=YouTube&"
-        #                "employment_type=FULL_TIME&location={}%22%2C%20USA&page={}&q=&sort_by"
-        #                "=relevance".format(city, page))
         response = get("https://careers.google.com/api/jobs/jobs-v1/search/?company=Google&company=YouTube&"
                        "employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=California%2C%20USA&"
                        "location=Oregon%2C%20USA&location=Washington%2C%20USA&page={}&"
